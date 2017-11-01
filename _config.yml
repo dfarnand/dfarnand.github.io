@@ -1,0 +1,23 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Arbitrarities
+theme: jekyll-theme-dinky
+# email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  A blog that may contain writing over the range of topics that interest me,
+  possibly including Statistics, Data Science, International Development, Life
+  in NYC, Video Games, Digital Security and anywhere else my attention wanders.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "dfarnand.github.io" # the base hostname & protocol for your site
+# twitter_username: 
+github_username:  dfarnand
+linkedin_username: dfarnand
+
+# Build settings
+markdown: kramdown
