@@ -9,9 +9,7 @@
 title: Arbitrarities
 # email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  A blog that may contain writing over the range of topics that interest me,
-  possibly including Statistics, Data Science, International Development, Life
-  in NYC, Video Games, Digital Security and anywhere else my attention wanders.
+  A inactive blog that I may reactivate someday.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "dfarnand.github.io" # the base hostname & protocol for your site
 # twitter_username: 
